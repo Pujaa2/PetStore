@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\pujaa\\source\\repos\\PetStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6219D930-CDF0-4447-B7B0-84BCE533DEF7}|PetStore.csproj|c:\\users\\pujaa\\source\\repos\\petstore\\productlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6219D930-CDF0-4447-B7B0-84BCE533DEF7}|PetStore.csproj|solutionrelative:productlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6219D930-CDF0-4447-B7B0-84BCE533DEF7}|PetStore.csproj|c:\\users\\pujaa\\source\\repos\\petstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6219D930-CDF0-4447-B7B0-84BCE533DEF7}|PetStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,60 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "ProductLogic.cs",
+              "DocumentMoniker": "C:\\Users\\pujaa\\source\\repos\\PetStore\\ProductLogic.cs",
+              "RelativeDocumentMoniker": "ProductLogic.cs",
+              "ToolTip": "C:\\Users\\pujaa\\source\\repos\\PetStore\\ProductLogic.cs",
+              "RelativeToolTip": "ProductLogic.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:37:58.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CatFood.cs",
               "DocumentMoniker": "C:\\Users\\pujaa\\source\\repos\\PetStore\\CatFood.cs",
               "RelativeDocumentMoniker": "CatFood.cs",
               "ToolTip": "C:\\Users\\pujaa\\source\\repos\\PetStore\\CatFood.cs",
               "RelativeToolTip": "CatFood.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T21:41:36.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pujaa\\source\\repos\\PetStore\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\pujaa\\source\\repos\\PetStore\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEUAAAARAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwGYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T21:39:36.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DogLeash.cs",
               "DocumentMoniker": "C:\\Users\\pujaa\\source\\repos\\PetStore\\DogLeash.cs",
               "RelativeDocumentMoniker": "DogLeash.cs",
               "ToolTip": "C:\\Users\\pujaa\\source\\repos\\PetStore\\DogLeash.cs",
               "RelativeToolTip": "DogLeash.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T21:39:25.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\pujaa\\source\\repos\\PetStore\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
               "ToolTip": "C:\\Users\\pujaa\\source\\repos\\PetStore\\Product.cs",
               "RelativeToolTip": "Product.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBIAAAAFAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:46:00.713Z",
               "EditorCaption": ""

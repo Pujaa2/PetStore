@@ -12,3 +12,4 @@ C:\Users\pujaa\source\repos\PetStore\obj\Debug\net8.0\refint\PetStore.dll
 C:\Users\pujaa\source\repos\PetStore\obj\Debug\net8.0\PetStore.pdb
 C:\Users\pujaa\source\repos\PetStore\obj\Debug\net8.0\PetStore.genruntimeconfig.cache
 C:\Users\pujaa\source\repos\PetStore\obj\Debug\net8.0\ref\PetStore.dll
+C:\Users\pujaa\source\repos\PetStore\obj\Debug\net8.0\PetStore.sourcelink.json
